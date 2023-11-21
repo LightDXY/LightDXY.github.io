@@ -29,7 +29,7 @@ My research interest includes general representation learning (e.g., fundamental
 - *2023.11*: &nbsp;🎉🎉 PointCAT is accepted by TIP.
 - *2023.07*: &nbsp;🎉🎉 ELP and RobustMAE are accepted by ICCV2023.
 - *2023.03*: &nbsp;🎉🎉 MaskCLIP and DAM-VP are accepted by CVPR2023. 
-- *2023.01*: &nbsp;🎉🎉 CSWin is selectd as <a href='https://www.paperdigest.org/2023/01/most-influential-cvpr-papers-2023-01/'>CVPR2022 top10 Influential  paper</a>. 
+- *2023.01*: &nbsp;🎉🎉 CSWin is selectd as <a href='https://www.paperdigest.org/2023/01/most-influential-cvpr-papers-2023-01/'>CVPR2022 top10 Influential paper</a>. 
 - *2022.12*: &nbsp;🎉🎉 PeCo is accepted by AAAI2023.
 - *2022.10*: &nbsp;🎉🎉 MaskCLIP won the <a href='https://eval.ai/web/challenges/challenge-page/1832/overview'> 1st place in ICinW Industry Track</a>. 
 - *2022.07*: &nbsp;🎉🎉 BootMAE and CD-Net are accepted by ECCV2022.
@@ -42,100 +42,117 @@ My research interest includes general representation learning (e.g., fundamental
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/buol.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/maskclip.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[BUOL: A Bottom-Up Framework with Occupancy-aware Lifting for Panoptic 3D Scene Reconstruction From A Single Image]()
+[MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining ](https://arxiv.org/abs/2208.12262)
 
-Tao Chu, **Pan Zhang**, Qiong Liu, Jiaqi Wang
+**Xiaoyi Dong**, Jianmin Bao, Yinglin Zheng, Ting Zhang, Dongdong Chen, Hao Yang, Ming Zeng, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu 
 
-CVPR 2023 \| [**Code coming soon**]()
+CVPR 2023 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/talking_head.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/peco.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation](https://arxiv.org/pdf/2212.08062.pdf)
+[Peco: Perceptual codebook for bert pre-training of vision transformers ](https://arxiv.org/pdf/2111.12710.pdf)
 
-Bowen Zhang\*, Chenyang Qi\*, **Pan Zhang**, Bo Zhang, HsiangTao Wu, Dong Chen,  Qifeng Chen, Yong Wang, Fang Wen
+**Xiaoyi Dong**, Jianmin Bao, Ting Zhang, Dongdong Chen, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu 
 
-CVPR 2023 \| [**Project**](https://meta-portrait.github.io/) \| [**Github** ![](https://img.shields.io/github/stars/Meta-Portrait/MetaPortrait?style=social)](https://github.com/Meta-Portrait/MetaPortrait)
+AAAI 2023 \| 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/cmpi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/bootmae.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real-time neural character rendering with pose-guided multiplane images](https://arxiv.org/pdf/2204.11820.pdf)
+[Bootstrapped Masked Autoencoders for Vision BERT Pretraining ](https://arxiv.org/abs/2207.07116)
 
-Hao Ouyang, Bo Zhang, **Pan Zhang**, Hao Yang, Jiaolong Yang, Dong Chen,  Qifeng Chen, Fang Wen
+**Xiaoyi Dong**, Jianmin Bao, Ting Zhang, Dongdong Chen, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu 
 
-ECCV 2022 \| [**Project**](https://ken-ouyang.github.io/cmpi/index.html) \| [**Github** ![](https://img.shields.io/github/stars/ken-ouyang/PGMPI?style=social)](https://github.com/ken-ouyang/PGMPI) \| [**Video**](https://youtu.be/otL3UAak7wQ) \| [**Dynamic MVS Data**](https://hkustconnect-my.sharepoint.com/:u:/g/personal/houyangab_connect_ust_hk/EZ_w1wUORJpHo1W1arGuL-QBoAr7WojoCOqsPMXQYk7h3Q?e=XrFuae)
+ECCV 2022 \| [**Github**](https://github.com/LightDXY/BootMAE) 
+
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/proda.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cswin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation](https://arxiv.org/pdf/2101.10979.pdf)
+[CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows ](https://arxiv.org/pdf/2107.00652.pdf)
 
-**Pan Zhang**, Bo Zhang,  Ting Zhang, Dong Chen, Yong Wang, Fang Wen
+**Xiaoyi Dong**, Jianmin Bao, Dongdong Chen, Weiming Zhang, Nenghai Yu, Lu Yuan, Dong Chen, Baining Guo 
 
-CVPR 2021 \| [**Github** ![](https://img.shields.io/github/stars/microsoft/ProDA?style=social)](https://github.com/microsoft/ProDA) 
+CVPR 2022 <span style="color:red"> [<span style="color:red">**CVPR2022 top10 Influential paper**</span>](https://www.paperdigest.org/2023/01/most-influential-cvpr-papers-2023-01/) \| [**Github**](https://github.com/microsoft/CSWin-Transformer) 
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/cocosnet_v2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/ict_deepfake.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation](https://arxiv.org/pdf/2012.02047.pdf)
+[Protecting Celebrities from DeepFake with Identity Consistency Transformer ](https://arxiv.org/abs/2203.01318)
 
-Xingran Zhou, Bo Zhang, Ting Zhang, **Pan Zhang**, Jianmin Bao, Dong Chen, Zhongfei Zhang, Fang Wen
+**Xiaoyi Dong**, Jianmin Bao, Dongdong Chen, Ting Zhang, Weiming Zhang, Nenghai Yu, Dong Chen, Fang Wen, Baining Guo 
 
-CVPR 2021 <span style="color:red">**Oral**</span>, [<span style="color:red">**Best Paper Candidate**</span>](https://cvpr2021.thecvf.com/node/290) \| [**Github** ![](https://img.shields.io/github/stars/microsoft/CoCosNet-v2?style=social)](https://github.com/microsoft/CoCosNet-v2) \| [**Slides**](https://www.dropbox.com/s/g7dezxm2mhw6gqo/CoCosNet%20slides.pptx?dl=0)
+CVPR 2022  \| [**Github**](https://github.com/LightDXY/ICT_DeepFake) 
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/oldphoto.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2020</div><img src='images/greedfool_nips2020.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Old Photo Restoration via Deep Latent Space Translation](https://arxiv.org/pdf/2009.07047v1.pdf)
+[ GreedyFool: Distortion-Aware Sparse Adversarial Attack ](https://arxiv.org/pdf/2010.13773.pdf)
 
-Ziyu Wan, Bo Zhang, Dongdong Chen, **Pan Zhang**, Dong Chen, Jing Liao, Fang Wen
+**Xiaoyi Dong**, Dongdong Chen, Jianmin Bao, Chuan Qin, Lu Yuan, Weiming Zhang, Nenghai Yu, Dong Chen 
 
- TPAMI \| 🔥[**Github** ![](https://img.shields.io/github/stars/microsoft/Bringing-Old-Photos-Back-to-Life?style=social)](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) \| [**Colab demo**](https://colab.research.google.com/drive/1NEm6AsybIiC5TwTU_4DqDkQO0nFRB-uA?usp=sharing) \| [**Replicate Demo**](https://replicate.ai/zhangmozhe/bringing-old-photos-back-to-life)
-
+NeurIPS 2020  \| [**Github**](https://github.com/LightDXY/GreedyFool) 
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/cocosnet.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/cvpr20_superatt.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cross-domain Correspondence Learning for Exemplar-based Image Translation](https://arxiv.org/pdf/2004.05571.pdf)
+[Robust Superpixel-Guided Attentional Adversarial Attack](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_Robust_Superpixel-Guided_Attentional_Adversarial_Attack_CVPR_2020_paper.pdf)
 
-**Pan Zhang**, Bo Zhang, Dong Chen, Lu Yuan, Fang Wen
+**Xiaoyi Dong**, Jiangfan Han, Dongdong Chen, et al., Nenghai Yu 
 
-CVPR 2020 <span style="color:red">**Oral**</span> \| [**Project**](https://panzhang0212.github.io/CoCosNet/) \| [**Github** ![](https://img.shields.io/github/stars/microsoft/CoCosNet?style=social)](https://github.com/microsoft/CoCosNet) \| [**Supplementary**](https://panzhang0212.github.io/CoCosNet/supplementary.pdf) \| [**Slides**](https://www.dropbox.com/s/g7dezxm2mhw6gqo/CoCosNet%20slides.pptx?dl=0) \| [**Video**](https://youtu.be/BdopAApRSgo)
+CVPR 2020  \| [**Github**](https://github.com/LightDXY/Super_Pix_Adv) 
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/OldPhotos_teaser3.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/cvpr20_sr3d.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bringing Old Photos Back to Life](https://arxiv.org/pdf/2004.09484.pdf)
+[Self-Robust 3D Point Recognition via Gather-vector Guidance ](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_Self-Robust_3D_Point_Recognition_via_Gather-Vector_Guidance_CVPR_2020_paper.pdf)
 
-Ziyu Wan, Bo Zhang, Dongdong Chen, **Pan Zhang**, Dong Chen, Jing Liao, Fang Wen
+**Xiaoyi Dong**, Dongdong Chen, et al., Nenghai Yu 
 
-CVPR 2020 <span style="color:red">**Oral**</span> \| [**Project**](http://raywzy.com/Old_Photo/) \| 🔥[**Github** ![](https://img.shields.io/github/stars/microsoft/Bringing-Old-Photos-Back-to-Life?style=social)](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) \| [**Supplementary**](https://drive.google.com/file/d/10cctmu06yfhackflwkv4dfq5aqktueff/view) \| [**Colab demo**](https://colab.research.google.com/drive/1NEm6AsybIiC5TwTU_4DqDkQO0nFRB-uA?usp=sharing) \| [**Replicate Demo**](https://replicate.ai/zhangmozhe/bringing-old-photos-back-to-life)
+CVPR 2020
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/attack_iccv2019_nail.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Once a MAN: Towards Multi-Target Attack via Learning Multi-Target Adversarial Network Once ](https://arxiv.org/abs/1908.05185.pdf)
+
+Jiangfan Han*, **Xiaoyi Dong***, Ruimao Zhang, Dongdong Chen, Weiming Zhang, Nenghai Yu, Ping Luo, Xiaogang Wang (* Equal Contribution)
+
+ICCV 2019
+
+</div>
+</div>
+
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
