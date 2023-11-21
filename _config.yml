@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Pan Zhang"
+title                    : "Xiaoyi Dong"
 description              : "Researcher at Shanghai AI Laboratory. "
-repository               : "panzhang0212/panzhang0212.github.io"
+repository               : "LightDXY/LightDXY.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Pan Zhang"
-  avatar           : "images/Pan_Zhang2.jpg"
+  name             : "Xiaoyi Dong"
+  avatar           : "images/light.jpg"
   bio              : "Shanghai AI Laboratory"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=moHH480AAAAJ&hl=en"
-  email            : "panzhang0212@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=FscToE0AAAAJ&hl=en"
+  email            : "dlight at mail.ustc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
