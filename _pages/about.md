@@ -26,18 +26,21 @@ My research interest includes general representation learning (e.g., fundamental
 
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 PointCAT are accepted by TIP.
-- *2023.07*: &nbsp;🎉🎉 Emotional Listener Portrait and RobustMAE are accepted by ICCV2023.
+- *2023.11*: &nbsp;🎉🎉 PointCAT is accepted by TIP.
+- *2023.07*: &nbsp;🎉🎉 ELP and RobustMAE are accepted by ICCV2023.
 - *2023.03*: &nbsp;🎉🎉 MaskCLIP and DAM-VP are accepted by CVPR2023. 
+- *2023.01*: &nbsp;🎉🎉 CSWin is selectd as <a href='https://www.paperdigest.org/2023/01/most-influential-cvpr-papers-2023-01/'>CVPR2022 top10 Influential  paper</a>. 
 - *2022.12*: &nbsp;🎉🎉 PeCo is accepted by AAAI2023.
+- *2022.10*: &nbsp;🎉🎉 MaskCLIP won the <a href='https://eval.ai/web/challenges/challenge-page/1832/overview'> 1st place in ICinW Industry Track</a>. 
 - *2022.07*: &nbsp;🎉🎉 BootMAE and CD-Net are accepted by ECCV2022.
 - *2022.03*: &nbsp;🎉🎉 CSWin, ICT, Mobile-Former, SI-Adv are accepted by CVPR2022. 
+- *2021.11*: &nbsp;🎉🎉 PeCo reaches the <a href='https://paperswithcode.com/sota/image-classification-on-imagenet?tag_filter=171'>highest ImageNet-1K accuracy</a> w/o addition data.
 - *2021.08*: &nbsp;🎉🎉 Tacr-net is accepted by ACM MM.
 - *2020.09*: &nbsp;🎉🎉 GreedyFool is accepted by NeurIPS2020.
 - *2020.03*: &nbsp;🎉🎉 Sup-ADV, GVG and LG-GAN are accepted by CVPR2020.
 - *2019.07*: &nbsp;🎉🎉 MAN is accepted by ICCV2019. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/buol.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -137,11 +140,24 @@ CVPR 2020 <span style="color:red">**Oral**</span> \| [**Project**](http://raywzy
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2022.05*, Excellent award, Stars of Tomorrow Internship Program, Microsoft Research Asia (MSRA). 
-- *2017.06*, Honor Ranking of Talent Program in Information Science and Technology (For top 5% students by USTC). 
-- *2015.06*, National Scholarship (The highest scholarship awarded by the Ministry of Education, China).
-- *2014.06*, National Scholarship (The highest scholarship awarded by the Ministry of Education, China).
+- Outstanding Reviewer of CVPR2023, ICCV2021
+- *2023.10*, President Scholarship, Chinese Academy of Sciences.
+- *2023.05*, Outstanding Doctoral Dissertation Award, USTC
+- *2023.05*, Excellent award, Stars of Tomorrow Internship Program, Microsoft Research Asia (MSRA). 
+- *2020.06*, National Scholarship (The highest scholarship awarded by the Ministry of Education, China).
+- *2019.09*, IJCAI-2019 Alibaba Adversarial AI Challenge(AAAC2019). 1st prize in Defense Track, 2nd prize in Non-Target Attack Track.
+- *2018.10*, Competition on Adversarial Attacks and Defenses (CAAD2018). 2nd prize in Non-Target Attack Track.
 
 # 📖 Educations
-- *2017.06 - 2022.06*, Ph.D., University of Science and Technology of China and Microsoft Research Asia.
-- *2013.09 - 2017.06*, Undergraduate, University of Science and Technology of China. 
+- *2018.06 - 2023.06*, Ph.D., University of Science and Technology of China.
+- *2014.09 - 2018.06*, Undergraduate, University of Science and Technology of China.
+
+# Professional Activities
+- Reviewer for CVPR 2021, 2022, 2023
+- Reviewer for ICCV 2021, 2023
+- Reviewer for ECCV 2022
+- Reviewer for NeurIPS 2023
+- Reviewer for AAAI 2020, 2021, 2022
+- Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI)
+- Reviewer for IEEE Transactions on Image Processing(TIP)
+
