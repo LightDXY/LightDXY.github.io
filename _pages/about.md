@@ -18,22 +18,24 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
  
 # Short Bio 
-I am currently a researcher at at <a href='https://www.shlab.org.cn/'>Shanghai AI Laboratory</a> (shlab). I received my Ph.D. degree through a Joint PhD Program between <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> (MSRA) and <a href='https://en.ustc.edu.cn/'>University of Science and Technology of China</a> (USTC) in 2022. Prior to that, I received my Bachelor degree of Engineering at University of Science and Technology of China in 2017. I joined the Shanghai AI Laboratory in July 2022.
+I received my Ph.D. degree at <a href='https://en.ustc.edu.cn/'>University of Science and Technology of China</a> (USTC) in 2023. Prior to that, I received my Bachelor degree of Information Security at University of Science and Technology of China in 2018. 
 
-My research interest includes 2D generation and 3D reconstrution/generation. I am also now working on open-world detection and domain adaptation/genelization. 
+My research interest includes general representation learning (e.g., fundamental network structure design, self-supervised pretraining) and artificial intelligence security (e.g., adversarial samples, DeepFake). 
 
-We are seeking long-term internship candidates and looking for research collaboration. Please send email to me if you want to join us.
+
 
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 MetaPortrait and BUOL are accepted by CVPR2023. 
-- *2022.07*: &nbsp;🎉🎉 PG-MPI is accepted by ECCV2022.
-- *2022.04*: &nbsp;🎉🎉 Bring-Old-Photos-Back-to-Life has received 10,000+ github star.
-- *2022.03*: &nbsp;🎉🎉 Old-Photo-Restoration is accepted by TPAMI.
-- *2021.06*: &nbsp;🎉🎉 CoCosNet v2 is selected as a CVPR2021 Best Paper Candidate.
-- *2021.02*: &nbsp;🎉🎉 CoCosNet v2 and ProDA are accepted by CVPR2021. CoCosNet v2 is an Oral Paper.
-- *2020.10*: &nbsp;🎉🎉 Bring-Old-Photos-Back-to-Life has received 5,000+ github star.
-- *2020.03*: &nbsp;🎉🎉 CoCosNet and Bring-Old-Photos-Back-to-Life are accepted by CVPR2020 as Oral Papers. 
+- *2023.11*: &nbsp;🎉🎉 PointCAT are accepted by TIP.
+- *2023.07*: &nbsp;🎉🎉 Emotional Listener Portrait and RobustMAE are accepted by ICCV2023.
+- *2023.03*: &nbsp;🎉🎉 MaskCLIP and DAM-VP are accepted by CVPR2023. 
+- *2022.12*: &nbsp;🎉🎉 PeCo is accepted by AAAI2023.
+- *2022.07*: &nbsp;🎉🎉 BootMAE and CD-Net are accepted by ECCV2022.
+- *2022.03*: &nbsp;🎉🎉 CSWin, ICT, Mobile-Former, SI-Adv are accepted by CVPR2022. 
+- *2021.08*: &nbsp;🎉🎉 Tacr-net is accepted by ACM MM.
+- *2020.09*: &nbsp;🎉🎉 GreedyFool is accepted by NeurIPS2020.
+- *2020.03*: &nbsp;🎉🎉 Sup-ADV, GVG and LG-GAN are accepted by CVPR2020.
+- *2019.07*: &nbsp;🎉🎉 MAN is accepted by ICCV2019. 
 
 # 📝 Publications 
 
