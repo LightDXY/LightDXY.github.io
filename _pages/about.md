@@ -49,7 +49,7 @@ My research interest includes general representation learning (e.g., fundamental
 
 **Xiaoyi Dong**, Jianmin Bao, Yinglin Zheng, Ting Zhang, Dongdong Chen, Hao Yang, Ming Zeng, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu 
 
-CVPR 2023 
+CVPR 2023 <span style="color:red"> [<span style="color:red">**1st in ICinW Industry Track**</span>](https://eval.ai/web/challenges/challenge-page/1832/overview)
 </div>
 </div>
 
@@ -60,7 +60,7 @@ CVPR 2023
 
 **Xiaoyi Dong**, Jianmin Bao, Ting Zhang, Dongdong Chen, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu 
 
-AAAI 2023 \| 
+AAAI 2023 <span style="color:red"> [<span style="color:red">**SOTA ImageNet-1K accuracy**</span>](https://paperswithcode.com/sota/image-classification-on-imagenet?tag_filter=171)
 </div>
 </div>
 
