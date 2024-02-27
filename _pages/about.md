@@ -26,6 +26,7 @@ My research interest includes general representation learning (e.g., fundamental
 
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉🎉 OPERA is accepted by CVPR2024.
 - *2023.11*: &nbsp;🎉🎉 PointCAT is accepted by TIP.
 - *2023.07*: &nbsp;🎉🎉 ELP and RobustMAE are accepted by ICCV2023.
 - *2023.03*: &nbsp;🎉🎉 MaskCLIP and DAM-VP are accepted by CVPR2023. 
