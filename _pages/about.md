@@ -26,7 +26,8 @@ My research interest includes general representation learning (e.g., fundamental
 
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 OPERA is accepted by CVPR2024.
+- *2024.05*: &nbsp;🎉🎉 PeCo is selectd as <a href='https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/'>AAAI2023 top10 Influential paper</a>. 
+- *2024.02*: &nbsp;🎉🎉 OPERA is accepted by CVPR2024 as Highlight.
 - *2023.11*: &nbsp;🎉🎉 PointCAT is accepted by TIP.
 - *2023.07*: &nbsp;🎉🎉 ELP and RobustMAE are accepted by ICCV2023.
 - *2023.03*: &nbsp;🎉🎉 MaskCLIP and DAM-VP are accepted by CVPR2023. 
