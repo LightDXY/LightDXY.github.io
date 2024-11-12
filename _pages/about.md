@@ -26,6 +26,8 @@ My research interest includes general representation learning (e.g., fundamental
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 ShareGPT4V is selectd as <a href='https://www.paperdigest.org/2024/09/most-influential-eccv-papers-2024-09/'>ECCV top10 Influential paper</a>.
+- *2024.11*: &nbsp;🎉🎉 InternLM-XComposer2 and InternVL is selectd as <a href='https://www.paperdigest.org/2024/10/most-influential-arxiv-computer-vision-and-pattern-recognition-papers-2024-10/'>Arxiv2024 CV top10 Influential paper</a>. 
 - *2024.09*: &nbsp;🎉🎉 ShareGPT4Video, MMDU, and MMLongBench-Doc are accepted by NeurIPS2024 D&B.
 - *2024.09*: &nbsp;🎉🎉 InternLM-XComposer2-4KHD, MMStar, and Video-Streaming are accepted by NeurIPS2024.
 - *2024.07*: &nbsp;🎉🎉 ShareGPT4V and Long-CLIP are accepted by ECCV2024.
