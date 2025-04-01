@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
  
 # Short Bio 
-I received my Ph.D. degree at <a href='https://en.ustc.edu.cn/'>University of Science and Technology of China</a> (USTC) in 2023. Prior to that, I received my Bachelor degree of Information Security at University of Science and Technology of China in 2018. 
+I received my Ph.D. degree at <a href='https://en.ustc.edu.cn/'>University of Science and Technology of China</a> (USTC) in 2023. Prior to that, I received my Bachelor degree from the University of Science and Technology of China in 2018. 
 
 My research interest includes general representation learning (e.g., fundamental network structure design, self-supervised pretraining) and artificial intelligence security (e.g., adversarial samples, DeepFake). 
 
