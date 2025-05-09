@@ -26,7 +26,7 @@ My research interest includes general representation learning (e.g., fundamental
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 VideoRoPE (Spotlight Poster) and SongGen were accepted by ICML 2025.
+- *2025.05*: &nbsp;🎉🎉 VideoRoPE (Spotlight Poster) and SongGen were accepted by ICML 2025.
 - *2025.03*: &nbsp;🎉🎉 MMStar is selectd as <a href='https://www.paperdigest.org/2025/03/most-influential-nips-papers-2025-03-version/'>NeurIPS 2024 top10 Influential paper</a>.
 - *2025.02*: &nbsp;🎉🎉 Dispider, ViCo, OVO-Bench, and ByTheWay were accepted by CVPR 2025.
 - *2025.01*: &nbsp;🎉🎉 MIA-DPO and MotionClone were accepted by ICLR 2025.
