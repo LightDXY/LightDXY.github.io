@@ -20,13 +20,16 @@ redirect_from:
 # Short Bio 
 I received my Ph.D. degree at <a href='https://en.ustc.edu.cn/'>University of Science and Technology of China</a> (USTC) in 2023. Prior to that, I received my Bachelor degree from the University of Science and Technology of China in 2018. 
 
-My research interest includes general representation learning (e.g., fundamental network structure design, self-supervised pretraining) and artificial intelligence security (e.g., adversarial samples, DeepFake). 
+My research interests focus on multi-model models and general representation learning.
 
 
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 VideoRoPE (Spotlight Poster) and SongGen were accepted by ICML 2025.
+- *2025.06*: &nbsp;🎉🎉 MIR, SAM2Long, Visual-RFT, MM-IFEngine, X-Prompt, Bootstrap3D, and Light-A-Video were accepted by ICCV 2025.
+- *2025.05*: &nbsp;🎉🎉 SongComposer was accepted by ACL 2025.
+- *2025.05*: &nbsp;🎉🎉 IXC-2.5-Reward and Light-ColPali were accepted by Findings of ACL 2025.
+- *2025.05*: &nbsp;🎉🎉 VideoRoPE (Oral) and SongGen were accepted by ICML 2025.
 - *2025.03*: &nbsp;🎉🎉 MMStar is selectd as <a href='https://www.paperdigest.org/2025/03/most-influential-nips-papers-2025-03-version/'>NeurIPS 2024 top10 Influential paper</a>.
 - *2025.02*: &nbsp;🎉🎉 Dispider, ViCo, OVO-Bench, and ByTheWay were accepted by CVPR 2025.
 - *2025.01*: &nbsp;🎉🎉 MIA-DPO and MotionClone were accepted by ICLR 2025.
