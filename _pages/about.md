@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
  
 # Short Bio 
-I received my Ph.D. degree at <a href='https://en.ustc.edu.cn/'>University of Science and Technology of China</a> (USTC) in 2023. Prior to that, I received my Bachelor degree from the University of Science and Technology of China in 2018. 
+I am a Senior Researcher at Microsoft GenAI. We are working on OpenAI and Microsoft model training. I received my Ph.D. degree at <a href='https://en.ustc.edu.cn/'>University of Science and Technology of China</a> (USTC) in 2023. Prior to that, I received my Bachelor degree from the University of Science and Technology of China in 2018. 
 
 My research interests focus on multi-model models and general representation learning.
 
@@ -26,6 +26,8 @@ My research interests focus on multi-model models and general representation lea
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 Being selected as the <a href='https://topresearcherslist.com/Home/Profile/1184639'> World's Top 2% Scientist</a>.
+- *2025.09*: &nbsp;🎉🎉 HiFlow was accepted by NeurIPS 2025.
 - *2025.06*: &nbsp;🎉🎉 MIR, SAM2Long, Visual-RFT, MM-IFEngine, X-Prompt, Bootstrap3D, and Light-A-Video were accepted by ICCV 2025.
 - *2025.05*: &nbsp;🎉🎉 SongComposer was accepted by ACL 2025.
 - *2025.05*: &nbsp;🎉🎉 IXC-2.5-Reward and Light-ColPali were accepted by Findings of ACL 2025.
